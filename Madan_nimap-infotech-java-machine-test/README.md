@@ -10,15 +10,7 @@ Features
          Annotation-based Configuration (No XML).
          Uses JPA & Hibernate for database interaction.
 
-Prerequisites
-         Java 8 or above
-         MySQL 5(if MySQl 5 is ont available change the dependacy in pom.xml) installed and running
-         Postman 
-         
-How to Run the Project
-         1)Clone the Repository
-             git clone https://github.com/abhirajput2003/nimap-infotech-java-machine-test.git  
-             cd nimap-infotech-java-machine-test  
+      
 
          2)Configure Database
             spring.application.name=project
